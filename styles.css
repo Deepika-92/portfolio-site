@@ -5,7 +5,7 @@ background{
   
 }
 header{  
-    background-image: url("image1.png");  text-align: center;
+    background-image: url("image2.jpg");  text-align: center;
     font-size: 15px;
     color: rgb(248, 242, 242);
     position: relative;
@@ -28,7 +28,7 @@ header{
      text-decoration: none;
      padding: 5px 20px;
      font-family: poppins;
-     font-size: 16px;
+     font-size: 18px;
  }
  a { color: white;}
  
@@ -56,7 +56,7 @@ header{
 background-image: url("image3.jpg");
 height: 500px;
   }
-
- .scroll-to{
-     scroll-behavior: smooth;
- }
+p{
+    font-size: 25px;
+    color: rgb(248, 242, 242);
+}
